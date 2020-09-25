@@ -74,7 +74,7 @@
 
 
 
-#### Response field "status"  description
+#### Response field "status"  possible values
 | Value| Description|
 |--|--|
 | 1000|  Approved|
